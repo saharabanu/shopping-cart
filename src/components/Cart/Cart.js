@@ -31,12 +31,12 @@ const Cart = () => {
                               <div className="card-body p-4">
                                 <div className="row d-flex justify-content-center align-items-center">
                 <div className="col-md-2 col-lg-2 col-xl-2">
-                  <span>Product Image</span>
+                  
                 <img src={item?.img}
                   className="img-fluid rounded-3" alt="organic Food"/>
               </div>
               <div className="col-md-1 col-lg-2 col-xl-2">
-                <span>Title</span>
+                
                 <p className="lead fw-normal mb-2">{item?.title}</p>
                 
               </div>
