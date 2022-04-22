@@ -1,0 +1,14 @@
+.banner{
+    background-image: url('https://cdn.britannica.com/16/203316-050-822EE04E/food-carbohydrates.jpg');
+    height:75vh;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.heading{
+   padding-top: 7%;
+   font-size: 70px;
+   font-style: italic;
+   font-weight:900;
+}
